@@ -15,8 +15,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: Senrism
-          outputs: |
-            ./output/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
@@ -24,4 +23,4 @@ jobs:
           author_name: GitHub Actions
           author_email: actions@github.com
           message: "Generate snake animation"
-          add: "./output/github-contribution-grid-snake.svg"
+          add: "dist/github-contribution-grid-snake.svg"
