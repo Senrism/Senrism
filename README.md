@@ -15,9 +15,8 @@ Check out my stats below and feel free to connect!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senrism&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-<p align="center">
- ![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=Senrism&show_icons=true&theme=tokyonight)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Senrism&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
   <img src="https://github.com/Senrism/Senrism/blob/main/dist/github-contribution-grid-snake.svg" alt="snake animation" />
