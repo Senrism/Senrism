@@ -2,22 +2,25 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: Generate Snake Contribution Graph
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: Senrism
           outputs: |
             dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push to the Repo
         run: |
