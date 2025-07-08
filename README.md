@@ -20,7 +20,7 @@ Check out my stats below and feel free to connect!
 </p>
 
 <p align="center">
-  <img src="https://github.com/Senrism/Senrism/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Senrism/Senrism/blob/main/dist/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
