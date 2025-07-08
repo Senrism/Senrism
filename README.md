@@ -16,7 +16,7 @@ Check out my stats below and feel free to connect!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Senrism&theme=tokyo-night" />
+ ![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=Senrism&show_icons=true&theme=tokyonight)
 </p>
 
 <p align="center">
