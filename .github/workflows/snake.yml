@@ -21,6 +21,11 @@ jobs:
           github_user_name: Senrism
           outputs: |
             dist/github-contribution-grid-snake.svg
+          args: >
+            --color_snake #00AAFF # Electric Blue for the snake's body
+            --color_dots #1a1a1a,#2a2a2a,#4a4a4a,#6a6a6a # Dark sleek gray gradient for the background dots
+            --color_contributions #FFAA00,#AA00FF # Optional: Bright orange and electric purple for active contributions if supported
+            --pause 2
 
       - name: Commit & Push to the Repo
         run: |
