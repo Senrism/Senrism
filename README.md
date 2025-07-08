@@ -10,10 +10,18 @@ Check out my stats below and feel free to connect!
 
 ## 📈 GitHub Stats
 
-![Lasena Febry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senrism&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senrism&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Senrism&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senrism&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Senrism&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Senrism&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Senrism/Senrism/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
